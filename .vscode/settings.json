@@ -1,0 +1,28 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"explorer.confirmDragAndDrop": false,
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.renderWhitespace": "all",
+	"window.zoomLevel": 1,
+	"github.copilot.enable": {
+		"*": false,
+		"plaintext": false,
+		"markdown": false,
+		"scminput": false
+	},
+	"phpsab.standard": ".phpcs.xml.dist",
+	"phpsab.snifferEnable": true,
+	"phpsab.executablePathCBF": "../vendor/bin/phpcbf",
+	"phpsab.executablePathCS": "../vendor/bin/phpcs",
+	"phpsab.snifferShowSources": true,
+	"[php]": {
+		"editor.defaultFormatter": "valeryanm.vscode-phpsab"
+	},
+	"js/ts.updateImportsOnFileMove.enabled": "always",
+	"eslint.useFlatConfig": true,
+	"cSpell.words": ["Choi", "flickr", "sujin", "sujinc"]
+}

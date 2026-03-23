@@ -1,0 +1,14 @@
+**/.vscode
+**/vendor
+**/node_modules
+**/temp
+**/.backup
+
+.env
+.env*
+.dockerignore
+docker-compose**
+Dockerfile
+
+**/**.spec.ts
+yarn.lock
