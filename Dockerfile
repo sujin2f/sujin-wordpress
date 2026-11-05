@@ -1,5 +1,5 @@
 # syntax=docker.io/docker/dockerfile:1
-FROM wordpress:6.8.3-php8.3
+FROM wordpress:7.1.3-php8.5
 
 WORKDIR /var/www/html
 
